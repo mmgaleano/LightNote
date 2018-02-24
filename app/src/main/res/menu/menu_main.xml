@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.asiamvl.lightnote.MainActivity">
+    <item
+        android:id="@+id/reset_passpoints"
+        android:orderInCategory="100"
+        android:title="@string/reset_passpoints"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_image"
+        android:orderInCategory="200"
+        android:title="@string/change_image"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/set_defaults"
+        android:orderInCategory="300"
+        android:title="@string/set_defaults"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/close_menu"
+        android:orderInCategory="400"
+        android:title="@string/close_menu"
+        app:showAsAction="never" />
+
+</menu>

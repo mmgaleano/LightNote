@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LightNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="save">Save</string>
+    <string name="save_toast">Your notes has been saved</string>
+    <string name="cannot_save_excep">Program exception</string>
+    <string name="main_menu">MainMenu</string>
+    <string name="touch_image">Touch Image</string>
+    <string name="prompt_title">Create your touching sequence</string>
+    <string name="prompt_message">Touch your points in the image to set your passpoint sequence. You must click in the same points</string>
+    <string name="saving_message">Saving points...</string>
+    <string name="verify_message">Checking passpoints...</string>
+    <string name="lock">lock</string>
+    <string name="conf_to_insert_pass">You can now use your passpoints</string>
+    <string name="reset_passpoints">Reset Passpoints</string>
+    <string name="close_menu">Close Menu</string>
+    <string name="change_image">Change Image</string>
+    <string name="set_defaults">Set Defaults</string>
+</resources>
